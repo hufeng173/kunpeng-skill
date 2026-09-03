@@ -1,0 +1,5 @@
+interface:
+  display_name: "鲲鹏多源蒸馏"
+  short_description: "把多源素材蒸馏为可迁移画像，并应用到新任务后验收"
+  default_prompt: "使用 $kunpeng-skill 分析这些来源，建立带证据的可迁移画像，并按我的新目标应用和验收。"
+
